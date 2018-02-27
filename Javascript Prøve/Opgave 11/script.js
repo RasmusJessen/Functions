@@ -1,17 +1,18 @@
 
-function bt1() {
-    let button1 = document.getElementById("disapear1").innerHTML = "";
-}
+document.querySelector("#aKnap").addEventListener("click", function(event){
+    document.querySelector("#aKnap").style.display = "none";
+});
 
-function bt2() {
-   let button2 = document.getElementById("disapear2").innerHTML = "";
-}
+document.querySelector("#bKnap").addEventListener("click", function(event){
+    document.querySelector("#bKnap").style.display = "none";
+});
 
-function bt3() {
-    let button3 = document.getElementById("disapear3").innerHTML = "";
-}
+document.querySelector("#cKnap").addEventListener("click", function(event){
+    document.querySelector("#cKnap").style.display = "none";
+});
 
 function tjek() {
-     
+    
 }
 tjek();
+

@@ -30,6 +30,6 @@ document.querySelector('#submit').addEventListener('click', function(event){
         console.log("teksterne er forskellige");
     }
 })
-// sammenlign('navn', 'navn');
+sammenlign('navn', 'navn');
 
-// document.querySelector('#submit').addEventListener('click', sammenlign)
+document.querySelector('#submit').addEventListener('click', sammenlign)

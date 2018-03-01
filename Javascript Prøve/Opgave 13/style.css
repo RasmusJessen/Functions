@@ -1,0 +1,44 @@
+form {
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+form input, button {
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+form button {
+    margin-top:20px;
+}
+
+#om {
+    background-color:blue;
+    width:30%;
+    margin-bottom:150px;
+}
+
+#om h2 {
+    text-align:center;
+}
+
+#arb {
+    background-color:red;
+    width:30%;
+    margin-bottom:150px;
+}
+
+#arb h2 {
+    text-align:center;
+}
+
+#con {
+    background-color:green;
+    width:30%;
+}
+
+#con h2 {
+    text-align:center;
+}

@@ -1,0 +1,25 @@
+form {
+    background-color:lightslategray;
+    width:30%;
+    padding:10px;
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+form h2 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+input {
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+button {
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+}

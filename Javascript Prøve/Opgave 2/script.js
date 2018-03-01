@@ -10,4 +10,4 @@ function adresselabel(fornavn, efternavn, vej, husnummer, postnummer, bynavn) {
 let text = adresselabel('Rasmus', 'Jessen', 'Hørskætten', '2G', '2630', 'Taastrup');
 
 //udskriver den på siden 
-document.querySelector('#content').innerHTML = text;
+output.innerHTML = text;
